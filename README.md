@@ -1,4 +1,4 @@
-# ⛏️ Idle Mining Simulator
+# ⛏️ Mining Simulator
 
 A simple C++ console-based **idle mining simulation game** where the player digs mines, converts them into minerals, and increases their mining power over time.
 
